@@ -8,5 +8,4 @@ public class GItIdeaTest {
         System.out.println("master");
         System.out.println("hotfix");
     }
-
 }
