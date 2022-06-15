@@ -6,6 +6,7 @@ public class GItIdeaTest {
         System.out.println(222);
         System.out.println(333);
         System.out.println("master");
+        System.out.println("hotfix");
     }
 
 }
